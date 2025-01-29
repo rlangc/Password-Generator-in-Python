@@ -37,6 +37,32 @@ Thank you for using the Password Generator. Stay secure!
 
 ```
 
+<h2>Visuals:</h2>
+
+<p align="center">
+It welcomes you, and starts off by asking character numbers for the password: <br/>
+<img src="https://imgur.com/NQrpNkj.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks if you want digits: <br/>
+<img src="https://imgur.com/3MbR3yw.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks if you want special charcaters: <br/>
+<img src="https://imgur.com/9TVScdF.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks if you want uppercase letters: <br/>
+<img src="https://imgur.com/4KpS10l.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+Newly Generated Passed: <br/>
+<img src="https://imgur.com/cjWYdLY.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It will loop back and ask if you want to create another password: <br/>
+<img src="https://imgur.com/2GTEVRX.png" height="20%" width="40%" alt="Welcome to the Secure Password Generator"/>
+
 <h2></h2>
 <p align="center">
   <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
